@@ -11,9 +11,8 @@ Actualmente, estoy cursando en la Universidad Politecnica de Apodaca. Mi objetiv
 -   **Herramientas:** GitHub, VS Code, Windows.
 -   **Intereses:** Desarrollo de software, Programacion, Manejo de datos.
   
-  
+
   ### 📧 Contáctame
 
--   **LinkedIn:** [https://www.linkedin.com/in/tu-perfil-de-linkedin/](https://www.linkedin.com/in/tu-perfil-de-linkedin/)
--   **Correo Electrónico:** rafaelpadron051@gmail.com
+-   **Correo Electronico:** rafaelpadron051@gmail.com
 
