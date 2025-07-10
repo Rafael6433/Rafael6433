@@ -13,6 +13,5 @@ Actualmente, estoy cursando en la Universidad Politecnica de Apodaca. Mi objetiv
   
 
   ### 📧 Contáctame
-
--   **Correo Electronico:** rafaelpadron051@gmail.com
+-***Correo Electronico:*** rafaelpadron051@gmail.com
 
